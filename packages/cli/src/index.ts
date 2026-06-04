@@ -1,2 +1,2 @@
-// Placeholder — will be replaced by actual implementation
-export {};
+export { run } from "./cli.js";
+export type { CLIOptions } from "./cli.js";
